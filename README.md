@@ -1,4 +1,4 @@
-#Databáze a obchod volejbalových míčů
+# Databáze a obchod volejbalových míčů
 *Autor: Adrian Ibrahim <adrian.ibrahim.s@gyarab.cz>
 Ukázkový ročníkový projekt z předmětu webové technologie ve šk. roce 2024/2025.
 
