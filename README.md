@@ -12,6 +12,6 @@ Na homepage je seznam karet volejbalových míčů, kliknutím na kartu se zobra
 Hlavní menu obsahuje odkaz na homepage (seznam míčů) a ukazuje několik běžných míčů.
 
 ## Wireframes
-
+<Wireframe.png>
 
 
